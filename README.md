@@ -1,5 +1,5 @@
 # Hello, I'm Jeydin21!
-![Jeydin21's Discord Status](https://img.shields.io/endpoint?label=Currently&url=https://dev.discordprofiles.me/api/badge/status/443217277580738571) ![Jeydin21's Discord Playing Status](https://img.shields.io/endpoint?label=playing/using&url=https://dev.discordprofiles.me/api/badge/playing/443217277580738571)
+![Jeydin21's Discord Status](https://img.shields.io/endpoint?label=Currently&url=https://dev.discordprofiles.me/api/badge/status/443217277580738571) ![Jeydin21's Discord Playing Status](https://img.shields.io/endpoint?label=Status&url=https://dev.discordprofiles.me/api/badge/playing/443217277580738571)
 
 I develop discord bots, like [GoogleBot](https://googlebot-commands.glitch.me/), Discord's #1 Google bot!
 
