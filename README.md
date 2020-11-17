@@ -1,6 +1,6 @@
 # Hello, I'm Jeydin21!
 
-![Jeydin21's Trophies](https://github-profile-trophy.vercel.app/?username=Jeydin21&theme=onedark)
+![Jeydin21's Trophies](https://github-profile-trophy.vercel.app/?username=Jeydin21&theme=onedark&row=2&column=3)
 
 I develop discord bots, like [GoogleBot](https://top.gg/bot/721215949088358420), Discord's #1 Google bot!
 
