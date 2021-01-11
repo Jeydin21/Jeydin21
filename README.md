@@ -2,10 +2,11 @@
 
 ![Jeydin21's Trophies](https://github-profile-trophy.vercel.app/?username=Jeydin21&theme=onedark&row=2&column=3)
 
-I develop discord bots, like [GoogleBot](https://top.gg/bot/721215949088358420), Discord's #1 Google bot!
+I develop discord bots, like [GoogleBot](https://top.gg/bot/721215949088358420), Discord's #1 Google bot, and [DJ Paimon](discord.gg/vm8nzxgqha), a bot that plays the OST from [Genshin Impact](https://genshin.mihoyo.com/)!
 
 ## Projects
-Currently, my main project is [GoogleBot](https://top.gg/bot/721215949088358420), but I also work on [GoogleBot's Website](https://jeydin21.github.io/commands) and other small projects like games and websites!
+Currently, my main project is [DJ Paimon](discord.gg/vm8nzxgqha).
+My secondary project is [GoogleBot](https://top.gg/bot/721215949088358420), and other small projects like games and websites!
 
 ## Questions and Support
 Feel free to contact me on Discord [@Jeydin21](https://discord.com/users/667354950321569792) if you have a question or need support.
