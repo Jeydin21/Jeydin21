@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeydin21" alt="jeydin21" /></a> </p>
 
-[![Discord](https://discord.c99.nl/widget/theme-3/667354950321569792.png)](http://discord.com/users/667354950321569792)
-
 <p align="left"> <a href="https://twitter.com/jeydin21" target="blank"><img src="https://img.shields.io/twitter/follow/jeydin21?logo=twitter&style=for-the-badge" alt="jeydin21" /></a> </p>
 
 - 🔭 I’m currently working on [GoogleBot](https://jeydin21.github.io/commands/)
