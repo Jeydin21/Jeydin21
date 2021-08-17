@@ -7,19 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/jeydin21" target="blank"><img src="https://img.shields.io/twitter/follow/jeydin21?logo=twitter&style=for-the-badge" alt="jeydin21" /></a> </p>
 
-- 🔭 I’m currently working on [Munchyroll](https://munchyroll.ml)
-
-- 🌱 I’m currently learning **Python :D**
+- 🔭 I’m currently working on [Munchyroll](https://munchyroll.ml). Try v2 [here](https://munchyroll.glitch.me)!
 
 - 👯 I’m looking to collaborate on **making Discord servers**
 
-- 🤝 I’m looking for help with **Discord music bots**
-
-- 👨‍💻 Here's my website [https://jeydin21.jeydin21.repl.co](https://jeydin21.jeydin21.repl.co)
-
 - 💬 Ask me about **Discord bots and Discord servers**
-
-- 📫 How to reach me **JeyPham21@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
