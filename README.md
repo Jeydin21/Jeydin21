@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeydin21" alt="jeydin21" /></a> </p>
 
-- 🔭 I’m currently working on **Munchyroll (anime streaming website)**
+- 🔭 I’m currently working on **becoming a better developer**
 
-- 🌱 I’m currently learning **Java and CSS**
+- 🌱 I’m currently learning **how to use Vim as an everyday code editor**
 
 - 👯 I’m looking to collaborate on **learning new things**
 
 - 🤝 I’m looking for help with [learning React](https://react.dev)
 
-- 👨‍💻 All of my projects are available at [https://jeydin.is-a.dev/#projects](https://jeydin.is-a.dev/#projects)
+- 👨‍💻 All of my projects are available at [https://j21.dev/#projects](https://j21.dev/#projects)
 
 - 💬 Ask me about **why April is special to me and what got me interested in developing**
 
