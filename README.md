@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **learning new things**
 
-- 🤝 I’m looking for help with [learning React](https://react.dev)
+- 🤝 I’m looking for help with [learning Vim](https://neovim.io)
 
 - 👨‍💻 All of my projects are available at [https://j21.dev/#projects](https://j21.dev/#projects)
 
