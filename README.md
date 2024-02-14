@@ -25,6 +25,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeydin21&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="jeydin21" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeydin21&show_icons=true&theme=tokyonight&locale=en" alt="jeydin21" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeydin21&show_icons=true&theme=catppuccin_mocha&locale=en" alt="jeydin21" /></p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Jeydin21&theme=catppuccin-mocha)](https://git.io/streak-stats)
