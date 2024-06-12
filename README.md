@@ -1,6 +1,6 @@
 ## 👋 Hello there!
 
-My name is Jeydin Pham, an aspiring cybersecurity major. I'm a Linux enthusiast and an open source advocate. Always open to collaborating on projects and innovative ideas. Feel free to connect with me here:
+My name is Jeydin Pham, an aspiring cybersecurity major. I'm a Linux enthusiast and an open source advocate. I love developing things related to anime and games. I'm always open to collaborating on projects and innovative ideas. Feel free to connect with me here:
 
 <p align="center">
   <a href="mailto:jeydin@j21.dev?subject=Hello%20there!"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -12,17 +12,19 @@ My name is Jeydin Pham, an aspiring cybersecurity major. I'm a Linux enthusiast 
 
 ## 🤗 Fun Facts
 - \_\_\_\_\_\_\_\_\_\_\_\_
-- I use the [Ubuntu](https://ubuntu.com/desktop) distribution of Linux (23.10)
-- <details><summary>Games I play:</summary><br>
+- I use the [Ubuntu](https://ubuntu.com/desktop) distribution of Linux (24.04)
+- <details><summary>Games I Have Played:</summary><br>
   - Visual Studio Code<br>
   - Neovim<br>
+  - Blue Archive<br>
+  - NIKKE: Goddess of Victory<br>
   - Genshin Impact<br>
   - Honkai: Star Rail<br>
   - Honkai Impact 3rd<br>
-  - Tetris<br>
-  - Krunker<br>
+  - Tetr.io<br>
+  - Krunker.io<br>
   <br>
-  Yes, I can play all of these just fine on Linux, even better than Windows since there's no extra bloatware using my resources
+  Yes, I can play these just fine on Linux, even better than Windows since there's no extra bloatware using my resources
 
 
 ## ⚡ Technologies
