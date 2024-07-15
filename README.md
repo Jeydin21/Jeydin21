@@ -47,4 +47,6 @@ From that point onwards, I gained a new interest in frontend design, which I fou
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=jeydin21&count_private=true&show_icons=true&include_all_commits=true&theme=catppuccin_mocha&locale=en)
 
+![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%231e1e2e&borderColor=%23f5e0dc&qColor=%23f38ba8&aColor=%23a6e3a1&textColor=%23cdd6f4&codeColor=%2389dceb&theme=default)
+
 ![Visitor Badge](https://komarev.com/ghpvc/?username=jeydin21&label=Profile%20Views&color=0e75b6&style=flat)
