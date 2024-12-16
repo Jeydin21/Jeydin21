@@ -10,17 +10,11 @@ My name is Jeydin Pham, an aspiring web developer. I'm a Linux enthusiast and I 
   <a href="https://twitter.com/jeydin21"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-## 📖 My Story
-I first got into coding when I was in the 7th grade in middle school. I used [Discord](https://discord.com) as my main communication service, and I was interested in writing code for Discord bots. 
-
-When the global COVID-19 pandemic hit in 2021 and we were all stuck at home, I started gaining interest in anime culture and anime games. As a result, I started binge watching anime on random websites, to which I found the watching experience on those to be not that good. So I decided to make myself my own anime streaming website, which you can see the whole story [in my blog post](https://blog.j21.dev/projects/munchyroll). 
-
-From that point onwards, I gained a new interest in frontend design, which I found to be very relaxing to do with tools like React, Next.js, and TailwindCSS at my side. I hope to become a web development major or something web design related, because I believe that making cool websites that follow design trends is a form of modern art.
-
 ## 🤗 Fun Facts
 - I use the [Ubuntu](https://ubuntu.com/desktop) distribution of Linux (24.04 LTS)
 - You can see what anime shows I've watched by [checking out my Anilist profile](https://anilist.co/user/Jeydin21/)
 - <details><summary>Desktop Games I Have Played:</summary><br>
+  - Valorant<br>
   - Genshin Impact<br>
   - Honkai: Star Rail<br>
   - Honkai Impact 3rd<br>
@@ -28,7 +22,6 @@ From that point onwards, I gained a new interest in frontend design, which I fou
   - Tetr.io<br>
   - Krunker.io<br>
   <br>
-  Yes, I can play these just fine on Linux, even better than Windows since there's no extra bloatware using my resources
 
 ## ⚡ Technologies
 
