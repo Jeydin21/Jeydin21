@@ -1,6 +1,6 @@
 ## 👋 Hello There!
 
-My name is Jeydin Pham, an aspiring web developer. I'm a Linux enthusiast and I hate Windows. I love developing things related to anime or games, and I'm always open to collaborating on projects and innovative ideas. Feel free to connect with me:
+My name is Jeydin Pham, an aspiring computer science student. I'm a Linux enthusiast and I hate Windows. I love developing projects related to websites and games, and I'm always open to collaborating on projects and innovative ideas. Feel free to connect with me:
 
 <p align="center">
   <a href="mailto:jeydin@j21.dev?subject=Hello%20there!"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -12,7 +12,6 @@ My name is Jeydin Pham, an aspiring web developer. I'm a Linux enthusiast and I 
 
 ## 🤗 Fun Facts
 - I use the [Ubuntu](https://ubuntu.com/desktop) distribution of Linux (24.04 LTS)
-- You can see what anime shows I've watched by [checking out my Anilist profile](https://anilist.co/user/Jeydin21/)
 - <details><summary>Desktop Games I Have Played:</summary><br>
   - Valorant<br>
   - Genshin Impact<br>
