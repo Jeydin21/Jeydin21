@@ -2,6 +2,7 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Jeydin</h1></summary>
+    <p>I'm an incoming Computer Science major at The University of Texas at Dallas</p>
   </ul>
 </div>
 
@@ -12,12 +13,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jeydin21/Jeydin21/output/github-contribution-grid-snake.svg">
 </picture>
 
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Changing the world one function at a time</h2></summary>
-  </ul>
-</div>
 <!--Intro start-->
 <ul>
 <li>
