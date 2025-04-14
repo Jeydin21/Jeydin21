@@ -22,6 +22,7 @@
 </div>
 <!--Intro end-->
 
+<h1 align="center">📊 Profile Stats</h1>
 <!--- stats & Trophy (start) -->
 <div align="center">
   <!--- stats (start) -->
@@ -52,7 +53,7 @@
 <!--- trophy (end) -->
 <!--- stats (end) -->
 
-<h1 align="center">Technologies I Use 🖥️</h1>
+<h1 align="center">🖥️ Technologies I Use</h1>
 
 <!--tech stack icons-->
 <div align="center">
