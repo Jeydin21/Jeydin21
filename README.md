@@ -58,11 +58,11 @@
 <div align="center">
   <h2>Languages</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,js,discordjs,ts,html,r,py,java,md,latex,bash&amp;perline=14">
+    <img src="https://skillicons.dev/icons?i=css,js,discordjs,ts,html,r,py,java,md,latex,bash&amp;perline=11">
   </a>
   <h2>Tools</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,tailwind,arch,autocad,aws,cloudflare,github,git,linux,mongodb,neovim,netlify,nextjs,nodejs,npm,ubuntu,vercel,vscode,windows,&amp;perline=14">
+    <img src="https://skillicons.dev/icons?i=react,tailwind,arch,autocad,aws,cloudflare,github,git,linux,mongodb,neovim,netlify,nextjs,nodejs,npm,ubuntu,vercel,vscode,windows,&amp;perline=11">
   </a>
 </div>
 
