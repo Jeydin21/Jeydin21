@@ -12,7 +12,9 @@ I love collaborating on meaningful projects, tackling challenges, and sharing id
 
 ## 📌 Things I'm Doing
 - 🍣 **Munchyroll**: Attempting to debug and revitalize my project currently on hiatus - [Check it out!](https://github.com/Jeydin21/Munchyroll)
-- 💀 **High School**: Finishing up my time at [CRHS](https://www.katyisd.org/CRHS) before I land at [UT Dallas](https://www.utdallas.edu/)
+- 💀 **High School**: Finishing up my time at [CRHS](https://www.katyisd.org/CRHS) as a senior before I land at [UT Dallas](https://www.utdallas.edu/) and study computer science
+- 🛠️ **Resume-Worthy Projects**: I'm in the process of coming up with good projects ideas to showcase my skills and potential as a software engineer
+- 🗣️ **Becoming a Better Person** : I'm trying to learn to speak and convey my thoughts more efficiently. This will enhance my ability to work in a team!
 
 ## 🛠️ Languages and Tools
 ### Professional Experience
