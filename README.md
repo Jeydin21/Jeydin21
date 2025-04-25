@@ -10,6 +10,10 @@ I love collaborating on meaningful projects, tackling challenges, and sharing id
   <a href="https://discord.com/users/690677631720357979"><img src="https://img.shields.io/badge/discord-%233B5998.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+## 📌 Things I'm Doing
+- 🍣 **Munchyroll**: Attempting to debug and revitalize my project currently on hiatus - [Check it out!](https://github.com/Jeydin21/Munchyroll)
+- 💀 **High School**: Finishing up my time at [CRHS](https://www.katyisd.org/CRHS) before I land at [UT Dallas](https://www.utdallas.edu/)
+
 ## 🛠️ Languages and Tools
 ### Professional Experience
 <p align="left"> 
@@ -21,17 +25,6 @@ I love collaborating on meaningful projects, tackling challenges, and sharing id
   <a href="https://github.com/Jeydin21"><img src="https://skillicons.dev/icons?i=css,js,discordjs,ts,html,r,py,java,md,latex,bash,react,tailwind,arch,autocad,aws,cloudflare,github,git,linux,mongodb,neovim,netlify,nextjs,nodejs,npm,ubuntu,vercel,vscode,windows&amp">
   </a>
 </p>
-
-<!-- 
-## 📌 Things I'm Doing
-- 🧙‍♂️ **SAGE**: Collaborating to build an advising engine for students as a Development Lead for [ACM UTD](https://github.com/acmutd) - [Try it!](https://github.com/acmutd/sage-site)
-- 🧠 **Psychology Site Freelancing**: Designing and building a personal website for a clinical psychologist - [Work in progress](https://github.com/emw8105/ishan-psych-profile)
-- 🎶 **Wallify**: Finishing a web app to turn your Spotify playlists into wallpapers - [Generate yours here!](https://github.com/emw8105/Wallify)
-- 🔠 **Wordle Bot**: Finishing up the development of a web app to help solve the Wordle - [Check it out!](https://github.com/emw8105/wordle-solver)
-- ☁️ **Cloud Runner**: Learning Go by building a cloud computing POC - [See here!](https://github.com/emw8105/cloud-runner)
-- 🎨 **Profile Site**: Making my GitHub profile look cute and building a site - [Look here!](https://github.com/emw8105/emw8105)
-- 💀 **University**: Managing grad school atm
--->
 
 ## ⭐ Featured Repositories
 <p align="left">
