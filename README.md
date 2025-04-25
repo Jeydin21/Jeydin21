@@ -1,9 +1,47 @@
-<div align="center">
-  <h1 style="display: inline-block">Hey 👋, I'm Jeydin</h1>
-  <p>I'm an incoming Computer Science major at The University of Texas at Dallas, and an aspiring software engineer</p>
-</div>
+# Hey there!! 👋
+I'm Jeydin, an aspiring software engineer and incoming computer science student at The University of Texas at Dallas. I have a focus in web development, but I also have some experience in Linux and devops.
 
-<!--- snake -->
+Feel free to explore my projects, don’t hesitate to reach out if you see something that sparks your interest (or if you have any ideas 😎). I love collaborating and learning, and I'm always open to new challenges and fresh perspectives!!
+
+## 🛠️ Languages and Tools
+### Professional Experience
+<p align="left"> 
+  None yet :)
+</p>
+
+### Personal Experience
+<p align="left"> <a href="https://github.com/Jeydin21"><img src="https://skillicons.dev/icons?i=css,js,discordjs,ts,html,r,py,java,md,latex,bash&amp;perline=11"> </a> </p>
+
+<!-- 
+## 📌 Things I'm Doing
+- 🧙‍♂️ **SAGE**: Collaborating to build an advising engine for students as a Development Lead for [ACM UTD](https://github.com/acmutd) - [Try it!](https://github.com/acmutd/sage-site)
+- 🧠 **Psychology Site Freelancing**: Designing and building a personal website for a clinical psychologist - [Work in progress](https://github.com/emw8105/ishan-psych-profile)
+- 🎶 **Wallify**: Finishing a web app to turn your Spotify playlists into wallpapers - [Generate yours here!](https://github.com/emw8105/Wallify)
+- 🔠 **Wordle Bot**: Finishing up the development of a web app to help solve the Wordle - [Check it out!](https://github.com/emw8105/wordle-solver)
+- ☁️ **Cloud Runner**: Learning Go by building a cloud computing POC - [See here!](https://github.com/emw8105/cloud-runner)
+- 🎨 **Profile Site**: Making my GitHub profile look cute and building a site - [Look here!](https://github.com/emw8105/emw8105)
+- 💀 **University**: Managing grad school atm
+-->
+
+## ⭐ Featured Repositories
+<p align="left">
+  <a href="https://github.com/Jeydin21/Munchyroll"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Jeydin21&repo=Munchyroll&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="SAGE"></a>
+  <a href="https://github.com/Jeydin21/Raincheck"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Jeydin21&repo=Raincheck&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="Visio Parser"></a>
+  <a href="https://github.com/Jeydin21/Calculator-App"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Jeydin21&repo=Calculator-App&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="SpotiWall"></a>
+</p>
+
+## 🌐 Socials
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/jeydinpham/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:jeydin@j21.dev">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
+
+## 📊 Profile Stats
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jeydin21/Jeydin21/output/github-contribution-grid-snake-dark.svg">
@@ -12,74 +50,14 @@
   </picture>
 </div>
 
-<!--Intro start-->
-<div align="center">
-  <p>🔭 I’m currently working on <strong>my anime web-scraping web-app, <a href="https://github.com/Jeydin21/Munchyroll">Munchyroll</a></strong></p>
-  <p>🌱 I’m currently learning <strong>data structures and algorithms to prepare for technical interviews in college</strong></p>
-  <p>☁️ I have a keen interest in working at Amazon for my first internship. So, I'm learning <strong>AWS Cloud Computing, preparing my resume, and studying for behavioral interviews</strong></p>
-  <p>💬 Ask me about <strong>how I'm preparing for college life as a Computer Science major!</strong></p>
-  <p>📫 Feel free to reach out to me at <strong><a href="mailto:jeydin@j21.dev">jeydin@j21.dev</a></strong></p>
-</div>
-<!--Intro end-->
-
-<h1 align="center">📊 Profile Stats</h1>
-<!--- stats & Trophy (start) -->
-<div align="center">
-  <!--- stats (start) -->
-  <table align="center">
-    <tbody>
-      <tr border="none">
-        <td width="50%" align="center">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jeydin21&amp;theme=dark&amp;show_icons=true&amp;count_private=true">
-          <br>
-          <br>
-          <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Jeydin21&amp;theme=dark&amp;hide_border=false">
-        </td>
-        <td width="50%" align="center">
-          <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Jeydin21&amp;theme=dark&amp;hide_border=false&amp;no-bg=true&amp;no-frame=true&amp;langs_count=10">
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-    <img align="center" width="84%" src="https://github-profile-trophy.vercel.app/?username=Jeydin21&amp;theme=radical&amp;row=1&amp;column=7&amp;margin-h=15&amp;margin-w=5&amp;no-bg=true" alt="TROPHY">
+<p align="left">
+  <a href="https://github.com/emw8105">
+    <img src="https://komarev.com/ghpvc/?username=jeydin21&style=for-the-badge&color=yellow" alt="Profile Views">
   </a>
-</div>
-<!--- trophy (end) -->
-<!--- stats (end) -->
+</p>
 
-<h1 align="center">🖥️ Technologies I Use</h1>
+<!---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emw8105&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--tech stack icons-->
-<div align="center">
-  <h2>Languages</h2>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,js,discordjs,ts,html,r,py,java,md,latex,bash&amp;perline=11">
-  </a>
-  <h2>Tools</h2>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,tailwind,arch,autocad,aws,cloudflare,github,git,linux,mongodb,neovim,netlify,nextjs,nodejs,npm,ubuntu,vercel,vscode,windows,&amp;perline=11">
-  </a>
-</div>
-
-<!-- Connect with me -->
-<h1 align="center">🤝 Connect With Me</h1>
-
-<!--icons and links-->
-<div align="center">
-  <a href="https://www.linkedin.com/in/jeydinpham/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50"></a>
-  <a href="https://twitter.com/Jeydin21" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50"></a>
-  <a href="https://www.instagram.com/Jeydin21" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50"></a>
-</div>
-
-<br>
-
-<!--profile visit count-->
-<div align="center">
-  <a href="https://komarev.com/ghpvc/?username=jeydin21&label=Profile%20Views&color=0e75b6&style=flat" target="blank"><img align="center" src="https://komarev.com/ghpvc/?username=jeydin21&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Viewer Counter"></a>
-</div>
+![Evan's GitHub stats](https://github-readme-stats.vercel.app/api?username=emw8105&show_icons=true&theme=radical)
+--->
