@@ -1,20 +1,15 @@
-# Hey there!! 👋
-Hey! I'm Jeydin — an aspiring software engineer and incoming Computer Science student at The University of Texas at Dallas. My main focus is web development, but I also enjoy working with Linux and exploring the world of DevOps.
+# 👋 Hey there!!
+I'm Jeydin, an aspiring software engineer and incoming Computer Science student at The University of Texas at Dallas. My main focus is web development, but I also enjoy working with Linux and exploring the world of DevOps.
 
 I love collaborating on meaningful projects, tackling challenges, and sharing ideas with other developers. If you're working on something cool or just want to connect, feel free to reach out!
 
-<p align="center">
-  <a href="mailto:jeydin@j21.dev?subject=Hello%20there!"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/jeydinpham/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/jeydin21/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://discord.com/users/690677631720357979"><img src="https://img.shields.io/badge/discord-%233B5998.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+[LinkedIn](https://linkedin.com/in/jeydinpham) | [Email](mailto:jeydinpham@gmail.com)
 
-## 📌 Things I'm Doing
-- 🍣 **Munchyroll**: Attempting to debug and revitalize my project currently on hiatus - [Check it out!](https://github.com/Jeydin21/Munchyroll)
-- 💀 **High School**: Finishing up my time at [CRHS](https://www.katyisd.org/CRHS) as a senior before I land at [UT Dallas](https://www.utdallas.edu/) and study computer science
-- 🛠️ **Resume-Worthy Projects**: I'm in the process of coming up with good projects ideas to showcase my skills and potential as a software engineer
-- 🗣️ **Becoming a Better Person** : I'm trying to learn to speak and convey my thoughts more efficiently. This will enhance my ability to work in a team!
+## 📌 Things I'm Working On
+- 🍣 **ACM Development Team**: I'm a software development officer for [ACM UTD](https://acmutd.co)! I maintain and contribute to the services that we make for UTD students, as UTD students
+- 💀 **University**: I'm counting the days until I land at [UT Dallas](https://www.utdallas.edu/) and meet new friends!
+- 🛠️ **Data Structures & Algorithms**: I'm choosing to study DSA before I take it in college, because I want to maximize my chances of passing interviews as much as possible
+- 🗣️ **Becoming a Better Person** : I'm trying to learn to speak and convey my thoughts more efficiently. This will definitely help in interviews and team settings!
 
 ## 🛠️ Languages and Tools
 ### Professional Experience
@@ -24,8 +19,32 @@ I love collaborating on meaningful projects, tackling challenges, and sharing id
 
 ### Personal Experience
 <p align="left">
-  <a href="https://github.com/Jeydin21"><img src="https://skillicons.dev/icons?i=css,js,discordjs,ts,html,r,py,java,md,latex,bash,react,tailwind,arch,autocad,aws,cloudflare,github,git,linux,mongodb,neovim,netlify,nextjs,nodejs,npm,ubuntu,vercel,vscode,windows&amp">
-  </a>
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61dafb"/>
+    <img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+    <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
 </p>
 
 ## ⭐ Featured Repositories
@@ -71,7 +90,7 @@ I love collaborating on meaningful projects, tackling challenges, and sharing id
 </div>
 
 <p align="left">
-  <a href="https://github.com/emw8105">
+  <a href="https://github.com/Jeydin21">
     <img src="https://komarev.com/ghpvc/?username=jeydin21&style=for-the-badge&color=yellow" alt="Profile Views">
   </a>
 </p>
